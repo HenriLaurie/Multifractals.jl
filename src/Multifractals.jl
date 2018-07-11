@@ -1,5 +1,10 @@
 module Multifractals
 
-# package code goes here
+###exports first to show API
+
+###type declarations
+
+###functions
+
 
 end # module

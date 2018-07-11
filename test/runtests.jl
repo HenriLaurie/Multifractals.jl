@@ -7,3 +7,4 @@ end
 
 # write your own tests here
 @test 1 == 2
+@test hello("world") == "Hello, world" #just to show Henri made a change
